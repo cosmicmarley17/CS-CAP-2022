@@ -5,4 +5,4 @@
 ## About
 In this repository I will track my progress with my capstone project: learning Rust and open-source collaborative workflow with Veloren.
 ## Weekly updates
-I will update `weekly-updates.md` with entries on my latest progress.
+I will update [weekly-updates.md](./weekly-updates.md "Weekly updates") with entries on my latest progress.
