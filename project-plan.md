@@ -2,7 +2,7 @@
 ## Goals
 * Rust proficiency
 	- Learn and improve skills with programming in Rust
-* Contribute to Veloren
+* Contribute to [Veloren](https://veloren.net/ "Official website for Veloren")
 	- Join the development community and get involved
 	- Learn the layout and navigation of the Veloren codebase
 	- Make code contributions to the project
