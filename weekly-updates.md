@@ -9,4 +9,7 @@
 	* Learned about `if let` syntax and `Option<T>`
 
 ## Week 2 - Jan 25-31 2022:
+* Read about the codebase structure of Veloren in the [Veloren Owner's Manual](https://book.veloren.net/contributors/index.html "Veloren Owner's Manual - For Contributors")
+* Learned about the [Entity Component System (ECS)](https://book.veloren.net/contributors/developers/ecs.html "Veloren Owner's Manual - ECS") used in Veloren and did some research to understand it more
+* Currently reading [Chapter 7 of The Rust Book](https://doc.rust-lang.org/stable/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html "Chapter 7 - The Rust Programming Language")
 * ...
