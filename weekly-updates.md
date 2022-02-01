@@ -14,4 +14,7 @@
 * Read [Chapter 7 of The Rust Book](https://doc.rust-lang.org/stable/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html "Chapter 7 - The Rust Programming Language")
 	* Learned about organizing projects into packages, crates, and modules
 * Attended a short virtual Veloren dev meeting focusing on reviewing some merge requests
+* Started reading [Chapter 8 of The Rust Book](https://doc.rust-lang.org/stable/book/ch08-00-common-collections.html "Chapter 8 - The Rust Programming Language")
+
+## Week 3 - Feb 01-07 2022:
 * ...
