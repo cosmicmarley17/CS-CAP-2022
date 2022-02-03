@@ -17,4 +17,8 @@
 * Started reading [Chapter 8 of The Rust Book](https://doc.rust-lang.org/stable/book/ch08-00-common-collections.html "Chapter 8 - The Rust Programming Language")
 
 ## Week 3 - Feb 01-07 2022:
+* Finished reading [Chapter 8 of The Rust Book](https://doc.rust-lang.org/stable/book/ch08-00-common-collections.html "Chapter 8 - The Rust Programming Language")
+	* Reviewed vectors, strings, and learned hash maps
+	* Practiced coding in Rust by trying an example exercise at the end of the chapter
 * ...
+
