@@ -19,7 +19,7 @@
 ## Week 3 - Feb 01-07 2022:
 * Finished reading [Chapter 8 of The Rust Book](https://doc.rust-lang.org/stable/book/ch08-00-common-collections.html "Chapter 8 - The Rust Programming Language")
 	* Reviewed vectors, strings, and learned hash maps
-	* Practiced coding in Rust by trying an example exercise at the end of the chapter
+	* Practiced coding in Rust by trying an example exercise at the end of the chapter: [Link to my solution here](./code/vector_stats_exercise/src/main.rs "vector_stats_exercise")
 * Attended another virtual Veloren Reading Club presentation. 
 	* The topic was getting started as a new contributor and making your first contributions and pull requests
 	* Learned a lot more about the collaboration workflow
