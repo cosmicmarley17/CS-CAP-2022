@@ -20,5 +20,11 @@
 * Finished reading [Chapter 8 of The Rust Book](https://doc.rust-lang.org/stable/book/ch08-00-common-collections.html "Chapter 8 - The Rust Programming Language")
 	* Reviewed vectors, strings, and learned hash maps
 	* Practiced coding in Rust by trying an example exercise at the end of the chapter
+* Attended another virtual Veloren Reading Club presentation. 
+	* The topic was getting started as a new contributor and making your first contributions and pull requests
+	* Learned a lot more about the collaboration workflow
+* Started writing a solution to [Project Euler problem #2](https://projecteuler.net/problem=2 "Project Euler - #2") to practice coding in Rust with what I've learned so far
+
+## Week 4 - Feb 08-14 2022:
 * ...
 
