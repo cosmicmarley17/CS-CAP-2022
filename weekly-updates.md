@@ -26,5 +26,6 @@
 * Started writing a solution to [Project Euler problem #2](https://projecteuler.net/problem=2 "Project Euler - #2") to practice coding in Rust with what I've learned so far
 
 ## Week 4 - Feb 08-14 2022:
+* Found and troubleshooted a bug in Veloren and submitted a detailed issue to their GitLab repository, following guidelines in the [Veloren handbook](https://book.veloren.net/players/reporting-bugs.html?highlight=issue#reporting-bugs "Veloren Owner's Manual - Reporting Bugs"). Here's a link to the issue: [Veloren GitLab: Issue #1464](https://gitlab.com/veloren/veloren/-/issues/1464 "Issue #1464")
 * ...
 
