@@ -33,4 +33,5 @@
 	* Learned about error handling with `panic!`, `match`, `Result`, `unwrap`, and the `?` operator.
 
 ## Week 5 - Feb 15-21 2022:
+* Did some more Veloren bug-hunting for [Issue #1464](https://gitlab.com/veloren/veloren/-/issues/1464 "Issue #1464").
 * ... 
