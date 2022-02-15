@@ -28,6 +28,7 @@
 ## Week 4 - Feb 08-14 2022:
 * Found and troubleshooted a bug in Veloren and submitted a detailed issue to their GitLab repository, following guidelines in the [Veloren handbook](https://book.veloren.net/players/reporting-bugs.html?highlight=issue#reporting-bugs "Veloren Owner's Manual - Reporting Bugs"). Here's a link to the issue: [Veloren GitLab: Issue #1464](https://gitlab.com/veloren/veloren/-/issues/1464 "Issue #1464")
 	* I spent a significant amount of time reading/tracing code, trying to figure out what might be causing the issue.
+		- I think it might be either an issue with the `grab_cursor` function in Veloren's `window` module, or an issue upstream with the external library `winit`.
 * Read [Chapter 9 of The Rust Book](https://doc.rust-lang.org/stable/book/ch09-00-error-handling.html "Chapter 9 - The Rust Programming Language")
 	* Learned about error handling with `panic!`, `match`, `Result`, `unwrap`, and the `?` operator.
 
