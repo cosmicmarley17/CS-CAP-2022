@@ -35,4 +35,4 @@
 ## Week 5 - Feb 15-21 2022:
 * Did some more Veloren bug-hunting for [Issue #1464](https://gitlab.com/veloren/veloren/-/issues/1464 "Issue #1464").
 * Started reading [Chapter 10 of The Rust Book](https://doc.rust-lang.org/stable/book/ch10-00-generics.html "Chapter 10 - The Rust Programming Language")
-* ...
+* Read some of the [SPECS Book](https://specs.amethyst.rs/docs/tutorials/01_intro.html "SPECS Documentation") to learn about the Entity Component System that Veloren uses.
