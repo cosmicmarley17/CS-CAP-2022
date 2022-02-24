@@ -43,5 +43,6 @@
 	- Learned about generic data types
 	- Learned about traits (for checking for and implementing shared behavior)
 	- Learned about lifetimes (for using references in functions without allowing dangling references) and lifetime annotations e.g. `'a`
+* Spent some time exploring the Veloren codebase
 * ...
 
