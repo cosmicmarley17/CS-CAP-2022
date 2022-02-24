@@ -39,4 +39,9 @@
 
 ## Week 6 - Feb 22-28 2022:
 * Read some of the [SPECS Book](https://specs.amethyst.rs/docs/tutorials/01_intro.html "SPECS Documentation") to learn about the Entity Component System that Veloren uses.
+* Finished reading [Chapter 10 of The Rust Book](https://doc.rust-lang.org/stable/book/ch10-00-generics.html "Chapter 10 - The Rust Programming Language")
+	- Learned about generic data types
+	- Learned about traits (for checking for and implementing shared behavior)
+	- Learned about lifetimes (for using references in functions without allowing dangling references) and lifetime annotations e.g. `'a`
 * ...
+
