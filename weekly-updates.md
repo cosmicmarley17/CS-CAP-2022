@@ -45,5 +45,9 @@
 * Spent some time exploring the Veloren codebase
 
 ## Week 7 - March 01-07 2022:
+* Did some more troubleshooting for [Issue #1464](https://gitlab.com/veloren/veloren/-/issues/1464 "Issue #1464")
+	- Discovered that the issue doesn't occur when running on the sway desktop. So it could possibly be an issue with or in conjunction with the GNOME desktop.
+	- I asked for some help finding other Wayland-native games to troubleshoot this in the official Discord
+* Browsed some of the dev discussion in the Discord
 * ...
 
