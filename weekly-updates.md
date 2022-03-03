@@ -49,5 +49,6 @@
 	- Discovered that the issue doesn't occur when running on the sway desktop. So it could possibly be an issue with or in conjunction with the GNOME desktop.
 	- I asked for some help finding other Wayland-native games to troubleshoot this in the official Discord
 * Browsed some of the dev discussion in the Discord
+* Started looking at the glider-related code to figure out how an option to invert flight controls might be implemented
 * ...
 
