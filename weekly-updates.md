@@ -44,11 +44,13 @@
 	- Learned about lifetimes (for using references in functions without allowing dangling references) and lifetime annotations e.g. `'a`
 * Spent some time exploring the Veloren codebase
 
-## Week 7 - March 01-07 2022:
+## Week 7 - Mar 01-07 2022:
 * Did some more troubleshooting for [Issue #1464](https://gitlab.com/veloren/veloren/-/issues/1464 "Issue #1464")
 	- Discovered that the issue doesn't occur when running on the sway desktop. So it could possibly be an issue with or in conjunction with the GNOME desktop.
 	- I asked for some help finding other Wayland-native games to troubleshoot this in the official Discord
 * Browsed some of the dev discussion in the Discord
 * Started looking at the glider-related code to figure out how an option to invert flight controls might be implemented
+
+## Week 8 - Mar 08-14 2022:
 * ...
 
