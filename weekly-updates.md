@@ -52,5 +52,7 @@
 * Started looking at the glider-related code to figure out how an option to invert flight controls might be implemented
 
 ## Week 8 - Mar 08-14 2022:
-* ...
-
+* Browsed some of Veloren's world-simulation code
+	- encountered a `Box<T>` and looked it up in the Rust Book
+* Looked further into inverting glider controls.
+	- Maybe a way to do this is to make use of the already-existing game setting that inverts the mouse y-axis. 
