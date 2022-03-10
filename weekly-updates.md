@@ -56,3 +56,6 @@
 	- encountered a `Box<T>` and looked it up in the Rust Book
 * Looked further into inverting glider controls.
 	- Maybe a way to do this is to make use of the already-existing game setting that inverts the mouse y-axis. 
+	- Asked for help in the Veloren dev Discord
+		+ A couple developers got back to me (including a core dev) and recommended starting with `voxygen/src/session/mod.rs` to look for where the regular mouse invert happens and create a check that inverts the mouse when gliding.
+	
