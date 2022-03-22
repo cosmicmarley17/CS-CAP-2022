@@ -60,5 +60,6 @@
 		+ A couple developers got back to me (including a core dev) and recommended starting with `voxygen/src/session/mod.rs` to look for where the regular mouse invert happens and create a check that inverts the mouse when gliding.
 		
 ## Week 9 - Mar 22-28 2022:
+* Officially requested (and received!) access to the Veloren official dev workgroup on GitLab as well as the dev repository on GitLab. This will allow me to create a branch for my work so community members can review it and provide suggestions.
 * ...
 	
