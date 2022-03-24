@@ -61,5 +61,6 @@
 		
 ## Week 9 - Mar 22-28 2022:
 * Officially requested (and received!) access to the Veloren official dev workgroup on GitLab as well as the dev repository on GitLab. This will allow me to create a branch for my work so community members can review it and provide suggestions.
+* Created a feature branch on the Veloren dev repository and pushed a commit with my glider invert progress there.
 * ...
 	
