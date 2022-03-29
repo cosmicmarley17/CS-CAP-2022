@@ -62,6 +62,8 @@
 ## Week 9 - Mar 22-28 2022:
 * Officially requested (and received!) access to the Veloren official dev workgroup on GitLab as well as the dev repository on GitLab. This will allow me to create a branch for my work so community members can review it and provide suggestions.
 * Created a feature branch on the Veloren dev repository and pushed a commit with my glider invert progress there.
+	- Here is a link to the first commit: [Commit c0fada91](https://gitlab.com/veloren/dev/veloren/-/commit/c0fada9174cd1ae1724c12ceaeeacfb9d20f9a7d?view=inline "GitLab - Experimenting with glider y-axis invert (Commit c0fada91)")
 
 ## Week 10 - Mar 29-Apr 04 2022:
+* Asked the Veloren dev Discord community for help figuring out an error with my glider code, providing a link to the commit I made on my feature branch on the dev repository.
 * ...
