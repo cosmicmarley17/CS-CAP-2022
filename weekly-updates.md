@@ -66,4 +66,7 @@
 
 ## Week 10 - Mar 29-Apr 04 2022:
 * Asked the Veloren dev Discord community for help figuring out an error with my glider code, providing a link to the commit I made on my feature branch on the dev repository.
+* Got a response from a core developer and have been looking into the advice they provided.
+* Have been tracing existing code to figure out how to get mine to work.
+	- I might need to add a mouse invert toggle function to `client/src/lib.rs`
 * ...
