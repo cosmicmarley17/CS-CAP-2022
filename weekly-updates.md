@@ -69,4 +69,6 @@
 * Got a response from a core developer and have been looking into the advice they provided.
 * Have been tracing existing code to figure out how to get mine to work.
 	- I might need to add a mouse invert toggle function to `client/src/lib.rs`
+
+## Week 11 - Apr 05-Apr 11 2022:
 * ...
