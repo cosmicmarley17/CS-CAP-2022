@@ -73,4 +73,8 @@
 ## Week 11 - Apr 05-Apr 11 2022:
 * Took a break from glider code and learned how to add a sprite to the game
     - From here I might try adding a unique model for it, making it collectible and creating an item for it with its own properties and functions.
+
+## Week 12 - Apr 12-Apr 18 2022:
+* Explored sprites and items, figured out how to make the sprite I added give an item when you interact with it. Up next is figuring out how to make my own item that corresponds to the sprite.
 * ...
+
