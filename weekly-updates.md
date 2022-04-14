@@ -76,5 +76,8 @@
 
 ## Week 12 - Apr 12-Apr 18 2022:
 * Explored sprites and items, figured out how to make the sprite I added give an item when you interact with it. Up next is figuring out how to make my own item that corresponds to the sprite.
+* Added an item that corresponds to the flower sprite I added to the game. Now you receive an item when you harvest the flower.
+* I also created a crafting recipe for a potion you can craft using the flower as an ingredient.
+	- Currently it has a health potion effect, but I'm going to experiment with creating my own custom potion effect that is applied when you consume the potion.
 * ...
 
