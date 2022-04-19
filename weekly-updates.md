@@ -79,5 +79,9 @@
 * Added an item that corresponds to the flower sprite I added to the game. Now you receive an item when you harvest the flower.
 * I also created a crafting recipe for a potion you can craft using the flower as an ingredient.
 	- Currently it has a health potion effect, but I'm going to experiment with creating my own custom potion effect that is applied when you consume the potion.
+* Spent some time working on a virtual mancala terminal game (WIP) to practice Rust coding outside of Veloren. [Link to my work here](./code/mancala/src/main.rs "mancala")
+
+## Week 13 - Apr 19-Apr 25 2022:
 * ...
+
 
