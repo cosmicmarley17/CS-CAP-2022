@@ -82,6 +82,7 @@
 * Spent some time working on a virtual mancala terminal game (WIP) to practice Rust coding outside of Veloren. [Link to my work here](./code/mancala/src/main.rs "mancala")
 
 ## Week 13 - Apr 19-Apr 25 2022:
+* Searched the Veloren codebase to find where potion effects are defined, so I can add my own.
 * ...
 
 
