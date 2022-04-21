@@ -83,6 +83,9 @@
 
 ## Week 13 - Apr 19-Apr 25 2022:
 * Searched the Veloren codebase to find where potion effects are defined, so I can add my own.
+* Followed a trail in the code leading from potions to `common/systems/src/buff.rs` and `common/src/comp/buff.rs` and the enum `BuffKind` to the enum `BuffEffect` to the `Stats` struct in `common/src/comp/stats.rs`. 
+* If I want to get really deep into creating effects, this is where I'll go. I think I'll try to create a jump height boosting potion later, which will require creating a new value on the `Stats` struct. 
+* For now, I'll focus on creating a new effect for my potion that simply combines existing effects.
+* Added a new `BuffKind` variant that increases player attack speed and reduces damage taken by the player. I also applied this buff to the custom potion I added.
 * ...
-
 
