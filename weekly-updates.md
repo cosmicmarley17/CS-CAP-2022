@@ -87,5 +87,9 @@
 * If I want to get really deep into creating effects, this is where I'll go. I think I'll try to create a jump height boosting potion later, which will require creating a new value on the `Stats` struct. 
 * For now, I'll focus on creating a new effect for my potion that simply combines existing effects.
 * Added a new `BuffKind` variant that increases player attack speed and reduces damage taken by the player. I also applied this buff to the custom potion I added.
-* ...
+* Learned and practiced squashing commits in git
 
+## Week 14 - Apr 26-Apr 02 2022:
+* Fixed compiler errors from adding my potion `BuffKind`. (I needed to handle my `BuffKind` on `match` statements)
+* The potion works! The attack speed is a little crazy because I gave it a very high value.
+* ...
