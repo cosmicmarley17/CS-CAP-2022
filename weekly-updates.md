@@ -80,6 +80,8 @@
 * I also created a crafting recipe for a potion you can craft using the flower as an ingredient.
 	- Currently it has a health potion effect, but I'm going to experiment with creating my own custom potion effect that is applied when you consume the potion.
 * Spent some time working on a virtual mancala terminal game (WIP) to practice Rust coding outside of Veloren. [Link to my work here](https://github.com/cosmicmarley17/mancala "mancala repository on GitHub")
+	- I took inspiration from Veloren's frontend-agnostic game design in the making of my long-term plans for my project.
+	- My mancala project made me a lot more familiar with Rust's `Result` and `Option<T>` types, and working with organizing data and functionality with structs and struct methods.
 
 ## Week 13 - Apr 19-Apr 25 2022:
 * Searched the Veloren codebase to find where potion effects are defined, so I can add my own.
@@ -87,9 +89,11 @@
 * If I want to get really deep into creating effects, this is where I'll go. I think I'll try to create a jump height boosting potion later, which will require creating a new value on the `Stats` struct. 
 * For now, I'll focus on creating a new effect for my potion that simply combines existing effects.
 * Added a new `BuffKind` variant that increases player attack speed and reduces damage taken by the player. I also applied this buff to the custom potion I added.
+* The familiarity with structs, struct methods, and match statements that I gained working on my [mancala project](https://github.com/cosmicmarley17/mancala "my mancala repository on GitHub") was very transferable to the Veloren codebase and made it easier to understand the program organization and add my own content to the game.
 * Learned and practiced squashing commits in git
 
-## Week 14 - Apr 26-Apr 02 2022:
+## Week 14 - Apr 26-Apr 29 2022:
 * Fixed compiler errors from adding my potion `BuffKind`. (I needed to handle my `BuffKind` on `match` statements)
-* The potion works! The attack speed is a little crazy because I gave it a very high value.
-* ...
+* The potion works! I had to adjust the potion strength because I initially set it absurdly high.
+* Someone on the Veloren dev team saw the work I was doing on my branch, and told me they're looking to add a potion that temporarily increases health, and I could tackle that if I want. Now that I've had some practice creating my experiment potion, I'll look into implementing this feature! 
+
